@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alcao</h1>
-<h3 align="center">J'ai 15 ans, je suis lycéen et je suis passionné de jeux vidéos et de développement informatique ! Mes langages principaux sont le LUA, le Python ainsi que le JavaScript et le HTML</h3>
+<h3 align="center">J'ai 16 ans, je suis lycéen et je suis passionné de jeux vidéos et de développement informatique ! Mes langages principaux sont le LUA, le Python ainsi que le JavaScript et le HTML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alcao&label=Profile%20views&color=0e75b6&style=flat" alt="alcao" /> </p>
 
