@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcao" alt="alcao" /></a> </p>
 
-- 🔭 I’m currently working on [SweetyLife]
+- 🔭 I’m currently working on [SweetyLife](https://discord.gg/sweetylife)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
