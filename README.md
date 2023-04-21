@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alcao</h1>
 <h3 align="center">J'ai 16 ans, je suis lycéen et je suis passionné de jeux vidéos et de développement informatique ! Mes langages principaux sont le LUA, le Python ainsi que le JavaScript et le HTML</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alcao&label=Profile%20views&color=0e75b6&style=flat" alt="alcao" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcao" alt="alcao" /></a> </p>
-
-- 🔭 I’m currently working on [SweetyLife](https://discord.gg/sweetylife)
+- 🔭 I’m currently working on [my Fivem store](https://discord.gg/E3PZR4uZXb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
